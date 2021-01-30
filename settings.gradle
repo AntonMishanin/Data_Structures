@@ -1,2 +1,4 @@
+include ':ArrayList'
+include ':LinkedList'
 include ':app'
 rootProject.name = "DataStructures"
